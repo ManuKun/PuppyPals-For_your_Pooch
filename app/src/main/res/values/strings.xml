@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">PuppyPals - For your Pooch</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="login_login">LOGIN</string>
+    <string name="login_new_here">New Here?</string>
+    <string name="login_sign_up">Sign Up</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="reg_header">Registration</string>
+    <string name="reg_email">Email</string>
+    <string name="reg_dog">Register Your Pooch</string>
+    <string name="reg_conf_pass">Confirm Password</string>
+    <string name="reg_dog_name">Dog\'s Name</string>
+    <string name="reg_dog_breed">Dog\'s Breed</string>
+    <string name="reg_dog_gender">Dog\'s Gender</string>
+    <string name="reg_dog_age">Dog\'s Age</string>
+    <string name="reg_gen_male">Male</string>
+    <string name="reg_gen_female">Female</string>
+    <string name="reg_years">Years</string>
+    <string name="prof_head">Profile</string>
+    <string name="prof_upload">Upload a Pic of your Pooch</string>
+    <string name="prof_update">UPDATE PROFILE</string>
+    <string name="prof_logout">LOG OUT</string>
+    <string name="prof_chat">Chat</string>
+    <string name="upProf_oldPass">Old Password</string>
+    <string name="search_head">PuppyPals Near You</string>
+    <string name="search_view">View</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_ad">Ad</string>
+    <string name="nav_info">Info</string>
+    <string-array name="breeds_trial">
+        <item>Alsatian</item>
+        <item>Doberman</item>
+        <item>German Shepherd</item>
+    </string-array>
+    <string name="upImg_choose">Choose Image from Gallery</string>
+    <string name="upImg_cam">Take Picture</string>
+    <string name="upImg_upload">Upload</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Breed_info_customers_title">Breed Information</string>
+    <string name="height">Height(ft.)</string>
+    <string name="weight">Weight(kg)</string>
+    <string name="life_span">Life Span(yrs)</string>
+    <string name="adap">Adaptability</string>
+    <string name="intel">Intelligence</string>
+    <string name="feed">Feedings</string>
+    <string name="moreInfo">More Info</string>
+    <string name="buy_puppies">Buy Puppies</string>
+    <string name="info_link">Infor Link</string>
+    <string name="breed_name">Breed Name</string>
+    <string name="reset">Reset</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="update_breed_info">Update Breed Info</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="dog_image">dog_image</string>
+    <string name="view_advertiesmt_ui">view_advertiesmt_ui</string>
+    <string name="icon_for_text">icon_for_text</string>
+    <string name="back_button">BACK</string>
+    <string name="image_for_pup">image for pup</string>
+    <string name="price">Price</string>
+    <string name="update_pup">update</string>
+    <string name="phone">Phone</string>
+    <string name="delete">delete</string>
+    <string name="myadds">myadds</string>
+    <string name="countofadd">add count</string>
+    <string name="total_adds">total ads</string>
+    <string name="search_error">Sorry! We couldn\'t locate any PuppyPals near you!</string>
+    <string name="toast_breed_add">Breed Info added successfully</string>
+    <string name="allChats_head">Your PuppyPals</string>
+    <string name="allChat_error">Looks like you haven\'t added any PuppyPals yet! Search for them on the Map and Chat with them here!</string>
+    <string name="type_here">Type Here...</string>
+</resources>
